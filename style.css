@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.img-bg{
+    width: 100%;
+    height: 100%;
+}
+.main-web{
+    position: relative;
+}
+.box-qua{
+    position: absolute;
+    top: 146px;
+    left: 492px;
+}
